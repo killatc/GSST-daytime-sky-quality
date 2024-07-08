@@ -2,9 +2,5 @@
 *.dbf
 *.prj
 *.shp
-<<<<<<< HEAD
-*.shx
-=======
 *.shx
 data/
->>>>>>> a8a4d496a9b9521f45ad9dede57bb8c817bc00f5
